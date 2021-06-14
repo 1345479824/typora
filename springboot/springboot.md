@@ -10,7 +10,9 @@ groupid和artifactId被统称为“坐标”是为了保证项目唯一性而提
 
 **注：artifactId实际应该是项目名-模块名，不只是项目名**
 
+​						    域      公司名  项目名                                               项目名                模块名
 
+例子：groupId com.atguigu.springcloud              artifactId      springcloud        client3355
 
 ## 2、目录结构（使用springboot initializer快速创建的spring boot项目）
 
